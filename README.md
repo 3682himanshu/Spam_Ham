@@ -10,9 +10,9 @@ sklearn , re <br/>
 
 ## Steps
 1) Normalizing message's words using (stopwords,punctutions)<br>
-2) Using tfidfvectorizer giving words their occurnce value according to the formulae of tdidf <br>
+2) Using tfidfvectorizer giving words their occurance value according to the formulae of tdidf <br>
 3) Transforming the tfidf vector to bag of words<br>
-4) Using Navie Bayes predicting algorithm traning the train set<br>
+4) Using Navie Bayes predicting algorithm for traning the train set<br>
 5) Finally predicting for the test set<br>
 
 ## Outcome
